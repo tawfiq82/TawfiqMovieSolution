@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Search";
+}
+
+<h2>Search Result</h2>@{
+    ViewBag.Title = "Index";
+}
+@model IList<TK.Service.Objects.Movie>
+
+
+<table class="table">
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Genre</td>
+        <td>Classification</td>
+        <td>Rating</td>
+        <td>Release Date</td>
+        <td>Cast</td>
+    </tr>
+    @foreach (var movie in Model)
+    {
+        <tr>
+            <td>@movie.Id</td>
+            <td>@movie.Title</td>
+            <td>@movie.Genre</td>
+            <td>@movie.Classification</td>
+            <td>@movie.Rating</td>
+            <td>@movie.ReleaseYear</td>
+            <td>@string.Join(",", movie.Cast)</td>
+        </tr>
+
+    }
+</table>
+
+

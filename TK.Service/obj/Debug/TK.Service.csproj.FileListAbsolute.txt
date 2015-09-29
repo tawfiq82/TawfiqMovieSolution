@@ -1,0 +1,6 @@
+c:\users\zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\TK.Service\obj\Debug\TK.Service.csprojResolveAssemblyReference.cache
+c:\users\zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\TK.Service\bin\Debug\TK.Service.dll
+c:\users\zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\TK.Service\bin\Debug\TK.Service.pdb
+c:\users\zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\TK.Service\bin\Debug\MoviesLibrary.dll
+c:\users\zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\TK.Service\obj\Debug\TK.Service.dll
+c:\users\zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\TK.Service\obj\Debug\TK.Service.pdb

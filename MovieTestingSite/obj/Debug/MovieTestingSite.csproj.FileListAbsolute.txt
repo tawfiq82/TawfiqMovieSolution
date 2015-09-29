@@ -1,0 +1,58 @@
+c:\users\zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\MovieTestingSite.dll.config
+c:\users\zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\MovieTestingSite.dll
+c:\users\zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\MovieTestingSite.pdb
+c:\users\zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\obj\Debug\MovieTestingSite.csprojResolveAssemblyReference.cache
+c:\users\zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\obj\Debug\MovieTestingSite.dll
+c:\users\zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\obj\Debug\MovieTestingSite.pdb
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\Antlr3.Runtime.dll
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\MoviesLibrary.dll
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\Newtonsoft.Json.dll
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Helpers.dll
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Mvc.dll
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Optimization.dll
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Razor.dll
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.WebPages.dll
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\TK.Service.dll
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\WebGrease.dll
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\TK.Service.pdb
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\Antlr3.Runtime.pdb
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\Newtonsoft.Json.xml
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Helpers.xml
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Mvc.xml
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Optimization.xml
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Razor.xml
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.WebPages.xml
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zarifa\documents\visual studio 2013\Projects\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\MovieTestingSite.dll.config
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\MovieTestingSite.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\MovieTestingSite.pdb
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\Antlr3.Runtime.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\Newtonsoft.Json.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Helpers.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Mvc.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Optimization.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Razor.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.WebPages.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\TK.Service.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\WebGrease.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\MoviesLibrary.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\TK.Service.pdb
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\Antlr3.Runtime.pdb
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\Newtonsoft.Json.xml
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Helpers.xml
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Mvc.xml
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Optimization.xml
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.Razor.xml
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.WebPages.xml
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\obj\Debug\MovieTestingSite.csprojResolveAssemblyReference.cache
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\obj\Debug\MovieTestingSite.dll
+C:\Users\Zarifa\Documents\TawfiqMovieSolution\TawfiqMovieSolution\MovieTestingSite\obj\Debug\MovieTestingSite.pdb

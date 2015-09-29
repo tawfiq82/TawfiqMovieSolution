@@ -1,0 +1,21 @@
+My solution contains 2 projects. One is TK.Service which has all the necessary functions to meet the requirements. 
+Another project MovieTestingSite is to test some of the functions from MovieService.cs.. 
+Testing Web project is not a complete web application, it was developed for my own purpose. As the main goal is 
+to provide a service so main focus was set on developing TK.Serivce project. It uses MovieLibrary to access the 
+third party data source. I have made some assumptions in my solution which are stated below:
+
+1.I preferred using a new Movie Class instead of exposing MovieData from the MovieService.cs. Movie class is 
+currently a replica of MovieData.cs except the name of some properties. As the main purpose is to use the
+ service in Company websites and if the web application is developed using MVC pattern, this Movie class 
+can be used as Model and all the MVC features can be easily applied to Movie.cs (i.e Adding DataAnnotation). 
+
+2.There is a common function for sorting movies by any of the name of the property except “Cast”.
+
+3.For searching, i used a generic expression builder to create the query. OperatorType can be easily extended
+ by adding more operator type and add the corresponding Expression Call in SearchExpressionBuilder.cs.
+
+4.In web application there are different approaches for caching.  As i developed TK.Service in such a way 
+that it can be used as a standalone dll, i have implemented my own cache mechanism. I used singleton pattern
+ to store the movie list in the memory and added some logic for loading the movie list from the third party 
+data source. As being singleton pattern it will be shared among multiple threads and i also implement thread 
+safe checking. 
